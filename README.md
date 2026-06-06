@@ -1,3 +1,4 @@
-# X-lab-workflow-of-Embedded-System
-A beginner's practice.  
-The very first attempt reulted in the upload of trashy learning materials of C languange in ZJU .Please Ignore.
+#ZJU freshman semester C programming course matetials
+Here is some slides and previous test materials of the very course  
+Teacher:JSL
+
